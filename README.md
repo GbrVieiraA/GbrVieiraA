@@ -20,6 +20,31 @@
 
 ---
 
+## 📊 **Status do GitHub**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GbrVieiraA&show_icons=true&count_private=true&hide_title=true&theme=white&hide=prs" />
+</p>
+
+---
+
+## 📈 **Atividades Recentes**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GbrVieiraA&theme=react-white&hide_title=true&hide_border=true&area=true" alt="Atividades Recentes" />
+</p>
+
+---
+
+## 🔝 **Linguagens Mais Usadas**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbrVieiraA&layout=compact&theme=white" alt="Linguagens Mais Usadas" />
+</p>
+
+
+---
+
 ## 🔧 **Tecnologias e Ferramentas que uso:**
 
 <p align="center">
