@@ -1,5 +1,7 @@
 # 👾 Olá, sou Gabriel! 👾
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="50%">
 </p>
@@ -10,7 +12,7 @@
 
 ## 👨‍💻 **Sobre mim:**
 
-🎯 Sou um desenvolvedor Python, com habilidades também em **HTML** e **CSS**. No momento, estou mergulhando em **Django**, **SQL** e no maravilhoso universo dos **bancos de dados**. 
+🎯 Sou um desenvolvedor Python, com habilidades também em **HTML** e **CSS**. No momento, estou mergulhando em **SQL** e no maravilhoso universo dos **bancos de dados**. 
 
 🔥 Busco entender como as tecnologias interagem entre si, com foco em tornar aplicações mais rápidas e escaláveis. Adoro construir soluções que são tanto eficientes quanto elegantes.
 
